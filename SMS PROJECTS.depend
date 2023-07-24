@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608703563 source:e:\c++ program\sms projects\main.c
+	<stdio.h>
+	<conio.h>
+	<process.h>
+	<time.h>
+	<string.h>
+
